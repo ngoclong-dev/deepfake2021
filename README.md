@@ -1,4 +1,4 @@
-# deepfakes_faceswap
+# deepfakes_ngoclong
 <p align="center">
   <a href="https://faceswap.dev"><img src="https://i.imgur.com/zHvjHnb.png"></img></a>
 <br />FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.
@@ -11,7 +11,6 @@
 <a href="https://www.patreon.com/bePatron?u=23238350"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png"></img></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/FC54sYg"><img src="https://i.imgur.com/gIpztkv.png"></img></a></p>
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=r1jng79a5xc"><img src="https://img.youtube.com/vi/r1jng79a5xc/0.jpg"></img></a>
 <br />Jennifer Lawrence/Steve Buscemi FaceSwap using the Villain model
 </p>
 
